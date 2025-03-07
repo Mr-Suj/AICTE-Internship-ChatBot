@@ -1,2 +1,12 @@
 # AICTE-Internship-ChatBot
-Week 1 : importing neccessary packages and tools
+week 1 :
+- downloaded and imported required packages
+- created basic intents
+- added more intents
+
+week 2 :
+- Created vectorizer and classifier
+- Preprocessed the data
+- Trainined the model
+- Defined function to chat with ChatBot
+- Tested ChatBot
